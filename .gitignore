@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ProjectThree/obj/Debug/ProjectThree.csproj.AssemblyReference.cache
+/ProjectThree/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/ProjectThree/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttributes.cs
+/ProjectThree/obj/Release/ProjectThree.csproj.AssemblyReference.cache
+/ProjectThree/obj/Release/.NETFramework,Version=v4.5.2.AssemblyAttributes.cs
